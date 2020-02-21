@@ -1,3 +1,3 @@
 # So Nozaki's website
 
-First Change to the website.
+https://sonozaki7.github.io/
