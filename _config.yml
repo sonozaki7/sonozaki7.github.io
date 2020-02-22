@@ -1,2 +1,3 @@
 baseurl: "/"
 url: "https://sonozaki7.github.io"
+theme: jekyll-theme-minimal
